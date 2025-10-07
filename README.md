@@ -1,3 +1,7 @@
+*Download ONLY THE ZIP FILE*
+
+
+
 My mod where I put Effort in to the Zombie Mode
 
 - Custom human enemies (many)
