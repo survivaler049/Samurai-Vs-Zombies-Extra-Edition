@@ -1,4 +1,4 @@
-*Download ONLY THE ZIP FILE*
+***!!!Download the 1.0 Release Do Not Download The Source or what you see Above!!!***
 
 
 
