@@ -10,6 +10,7 @@ My mod where I put Effort in to the Zombie Mode
 - Impossible Mode in Zombie mode it is just when you reach the certain level it gets ABSOLUTLY IMPOSSIBLE and you will see TON of new units (when you are playing the Last levels)
 - Custom 2 Map day/night with Music in Impossible mode
 - Creative Waves!!!
+and Many more (I wont Spoil the Fun)
 
 Main and Hardest Feature added:
 You Will Give up and leave the game!
