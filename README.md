@@ -43,6 +43,6 @@ this is UP to you if you Give up or defeat the Enemy!!! and Beat my mod!!!
 ******Main and Hardest Feature added:*****
 - You Will Give up and leave the game! Rage quit 🤬 - feeling bored 😮‍💨 - Frustrated 🫩 - or sad 😭.
 - One Wrong Move and Poor planning and you Can Restart Your Progress from complete Beginning or you can grind for Glu! 😵😩🤬
-
+(Need more info? check the Patch Notes for More detailed descriptions!)
 
 Windows/Android are fully supported!!!
