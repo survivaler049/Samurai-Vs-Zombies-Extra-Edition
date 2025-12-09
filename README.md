@@ -1,28 +1,43 @@
-***!!!Download the 1.0 Release Do Not Download The Source or what you see Above!!!***
+*****!!!Download the 1.0 Release Do Not Download The Source Code or what you see Above!!!*****
 
 
+*******QUESTION!*******
+1. ***I wont give out my source code***
+(WHY?)
+- One: My source code exceeds Github page and I don't want to give my source code out.
+- Two: This Mod's source code is only avaible for me only (if you want to give suggestions or help with Arts or code join SVZ Server: https://discord.gg/sSm4GbU3cu).
 
-My mod where I put Effort in to the Zombie Mode
+2. ***Linux and Mac is no longer supported!!!***
+(WHY?)
+- One: Lack of Feedback from community.
+- Two: I do not own linux or mac (means I can't test it).
 
-Custom human enemies (Many) 🎉🙌🎊
-
-a BUG that acts as a Feature to make it HELL FOR YOU (stops ground Ally's from attacking when too many flying allies are attacking) 😡🫤😤
-
-SECRET TACTIC (small help Save up Glu from samurai mode finish all levels to 70 only then move to zombie mode) 🤬😭😮‍💨
-
-Impossible Mode in Zombie mode it is just when you reach a certain level it gets ABSOLUTELY IMPOSSIBLE and you will see TON of new units (when you are playing the Last levels) 🥳🫠🥲
-
-Custom 2 Map day/night with Music in Impossible mode 😨💀👺
-
-Creative Waves!!! 🌟🤩✨
-
-And Many more to Come in the Future!!! 🎉🥳🎊
-
-Main and Hardest Feature added:
-You Will Give up and leave the game!
-Rage quit 🤬 - feeling bored 😮‍💨 - Frustrated 🫩 - or sad 😭.
-
-One Wrong Tactic and Smart planning and you Can Restart Your Progress from complete Beginning or you can grind for Glu! 😵😩🤬
+3. ***Always Read my description before saying or asking anything!!!***
+(WHY?)
+- One: I will just put you back here if you ask me what is already writen here.
+- Two: Because yes.
 
 
-Android in Future (when the Owner of This Server helps with the Android to Set it UP)
+*****DESCRIPTION:*****
+
+This is my mod where I improve OG SVZ and given it Extra content like custom enemies/units/stages/music/sounds/effects and many more!!!
+My goal is to improve my mod as much as Unity lets me 🥳 that means The Future is bright!!!
+in my mod you can expect Impossible and hard challenges that truly gives Dark Souls vibe as in my mod when you spend glu coins recklessly well you can start over and you will never see the new content if you give up 🫠🥲
+this is UP to you if you Give up or defeat the Enemy!!! and Beat my mod!!!
+
+
+*****FEATURES*****
+- Custom human enemies (Many) 🎉🙌🎊
+- Feature that stops Your ground allies from attacking when too many flying units are present! 😡🫤😤
+- A SECRET TACTIC (TIP: Save up Glu from samurai mode finish all Waves! only then move to the zombie mode) 🤬😭😮‍💨
+- Impossible Mode is Located both in Samurai/Zombie mode it is just when you reach a certain wave it gets ABSOLUTELY IMPOSSIBLE and very hard! and you will see TON of new units 🥳
+- Many Custom Maps day/night with Music in start of Impossible mode 😨💀👺
+- Creative Waves!!! 🌟🤩✨
+- And Many more to Come in the Future!!! 🎉🥳🎊
+
+******Main and Hardest Feature added:*****
+- You Will Give up and leave the game! Rage quit 🤬 - feeling bored 😮‍💨 - Frustrated 🫩 - or sad 😭.
+- One Wrong Move and Poor planning and you Can Restart Your Progress from complete Beginning or you can grind for Glu! 😵😩🤬
+
+
+Windows/Android are fully supported!!!
