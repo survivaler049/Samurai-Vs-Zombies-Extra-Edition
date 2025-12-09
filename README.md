@@ -1,4 +1,4 @@
-*****!!!Download the 1.0 Release Do Not Download The Source Code or what you see Above!!!*****
+*****!!!Download the 5.0.4 Release Do Not Download The Source Code!!!*****
 
 
 *******QUESTION!*******
@@ -16,6 +16,11 @@
 (WHY?)
 - One: I will just put you back here if you ask me what is already writen here.
 - Two: Because yes.
+
+4. ***If you need Any help reach out on to the community and ask any questions!!!***
+(WHY?)
+- One: If you are stuck and need few helps or guides let the community help out.
+- Two: this way you can try again with different approach on my mod.
 
 
 *****DESCRIPTION:*****
