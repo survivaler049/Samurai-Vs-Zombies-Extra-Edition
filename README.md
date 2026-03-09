@@ -33,8 +33,8 @@ this is UP to you if you Give up or defeat the Enemy!!! and Beat my mod!!!
 
 
 *****FEATURES*****
-- Custom human enemies (Many) 🎉🙌🎊
-- Feature that stops Your ground allies from attacking when too many flying units are present! 😡🫤😤
+- Custom enemies (Many) 🎉🙌🎊
+- Challenges that will make you cry! 😡🫤😤
 - A SECRET TACTIC (TIP: Save up Glu from samurai mode finish all Waves! only then move to the zombie mode) 🤬😭😮‍💨
 - Impossible Mode is Located both in Samurai/Zombie mode it is just when you reach a certain wave it gets ABSOLUTELY IMPOSSIBLE and very hard! and you will see TON of new units 🥳
 - Many Custom Maps day/night with Music in start of Impossible mode 😨💀👺
