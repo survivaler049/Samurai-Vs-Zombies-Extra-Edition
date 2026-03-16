@@ -29,7 +29,7 @@
 This is my mod where I improve OG SVZ and given it Extra content like custom enemies/units/stages/music/sounds/effects and many more!!!
 My goal is to improve my mod as much as Unity lets me 🥳 that means The Future is bright!!!
 in my mod you can expect Impossible and hard challenges that truly gives Dark Souls vibe as in my mod when you spend glu coins recklessly well you can start over and you will never see the new content if you give up 🫠🥲
-this is UP to you if you Give up or defeat the Enemy!!! and Beat my mod!!!
+this is UP to you if you Give up or defeat the Enemy!!! and Beat my mod!!
 
 
 *****FEATURES*****
