@@ -35,8 +35,8 @@ In my mod you can expect hard and near impossible challenges that truly gives Da
 *****FEATURES*****
 - Many custom Maps day/night with different musics, custom units and enemies :tada::raised_hands::confetti_ball:
 - Challenges that will make you cry! :rage::face_with_diagonal_mouth::triumph:
-- TIP for Hard Mode: Save up Glus from Samurai mode finish all Waves! Only then move to Zombie mode :face_with_symbols_over_mouth::sob::face_exhaling:
-- You can select difficulty mode from Baby (basically cheat), Easy, Normal, Hard (default) and Hell (Unlocks after beating final waves from Hard mode) that's up to your playstyle liking to experience :innocent: :skull_crossbones: 
+- TIP for Hard Mode: Save up Glus from Samurai mode finish all Waves! Only then move to Zombie mode 😵‍💫:sob::face_exhaling:
+- You can select difficulty mode from Baby (basically cheat), Easy, Normal, Hard (default) and Hell (Unlocks after beating final waves from Hard mode) that's up to your playstyle liking to experience :innocent: ☠️
 - Earn great rewards from completing achievements and waves from Challenge game mode! :scream: 
 - Get yourself ranked on Leaderboard from playing Endless and Multiplayer modes :muscle: 
 - Uncover some secrets hidden in the game :eye: 
