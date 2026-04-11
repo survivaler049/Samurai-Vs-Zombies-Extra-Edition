@@ -1,4 +1,4 @@
-*****!!!Download the 5.4.5.1 Release Do Not Download The Source Code!!!*****
+*****!!!Download the 5.4.5.2 Release Do Not Download The Source Code!!!*****
 <img width="1920" height="1080" alt="SvZExtra" src="https://github.com/user-attachments/assets/11ad4a23-0c6d-45bd-aedb-ea9cef9b9612" />
 
 
@@ -33,6 +33,7 @@ In my mod you can expect hard and near impossible challenges that truly gives Da
 
 
 *****FEATURES*****
+- access and enable the cheats menu!
 - Many custom Maps day/night with different musics, custom units and enemies :tada::raised_hands::confetti_ball:
 - Challenges that will make you cry! :rage::face_with_diagonal_mouth::triumph:
 - TIP for Hard Mode: Save up Glus from Samurai mode finish all Waves! Only then move to Zombie mode 😵‍💫😭😮‍💨
