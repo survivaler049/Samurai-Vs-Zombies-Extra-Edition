@@ -42,3 +42,6 @@ In my mod you can expect hard and near impossible challenges that truly gives Da
 - Uncover some secrets hidden in the game :eye: 
 - Creative Waves!!! :star2::star_struck::sparkles:
 - And Many more to Come in the Future!!! :tada::partying_face::confetti_ball:
+
+Please Support me on Ko-Fi that way you ensure I can support way more difficult and Safer (Upcoming new multiplayer mode that behaves stricter and more seriously on pvp) new multiplayer mode where you wont expect cheaters to just easily ruin your fun!
+My Ko-Fi Page: https://ko-fi.com/survivaler049
