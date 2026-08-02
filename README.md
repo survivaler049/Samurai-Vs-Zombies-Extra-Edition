@@ -45,3 +45,5 @@ In my mod you can expect hard and near impossible challenges that truly gives Da
 
 Please Support me on Ko-Fi that way you ensure I can support way more difficult and Safer (Upcoming new multiplayer mode that behaves stricter and more seriously on pvp) new multiplayer mode where you wont expect cheaters to just easily ruin your fun!
 My Ko-Fi Page: https://ko-fi.com/survivaler049
+
+Okay, survivaler049. SvZ extra v5.5.0 is coming soon
